@@ -19,7 +19,7 @@ rno | name | gender
 124 |Google|[link](http://www.google.com)
 
 ### Example Imgae
-?[](images/dog.png)
+![](images/dog.png)
 
 ### unordered list
 * list1
@@ -36,9 +36,9 @@ rno | name | gender
 	1. list3
 	2. list4
 
-> block quote1
-> block quote2
-> block quote3
+> block quote1  
+> block quote2  
+> block quote3  
 
 
 ### Example for Definitions
