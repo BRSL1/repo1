@@ -4,7 +4,7 @@ We recently announced a *new course* **DataScience** it is not ~~R-Language~~.
 
 y=x ^2^ + 3x + 5
 
-$A = \pi*r^{2}$
+tyt ty ty $A = \pi*r^{2}$
 
 hdr1 | hdr2
 -----|-----
